@@ -22,7 +22,7 @@ do
 
     if (lifeMonster <= 0)
     {
-        Console.WriteLine("Hero Wins!");
+        Console.WriteLine("Monster Wins!");
         break;
     }
 
